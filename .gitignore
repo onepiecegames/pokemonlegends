@@ -9,6 +9,7 @@
 *.class
 
 # generated files
+.settings/
 bin/
 gen/
 
