@@ -17,7 +17,7 @@
             android:name="jpac.remaster.pokemonlegends.MainActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/app_name"
-            android:theme="@style/FullscreenTheme" >
+            android:theme="@style/Fullscreen" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
